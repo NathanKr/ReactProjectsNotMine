@@ -46,9 +46,9 @@ class Image extends React.Component {
         }}
         >
         <div>
-          <FontAwesome className="image-icon" onClick={() => console.log('rotate')} name="sync-alt" title="rotate"/>
-          <FontAwesome className="image-icon" onClick={() => console.log('delete')} name="trash-alt" title="delete"/>
-          <FontAwesome className="image-icon" onClick={() => console.log('expand')} name="expand" title="expand"/>
+          <FontAwesome className="image-icon"  name="sync-alt" title="rotate"/>
+          <FontAwesome className="image-icon"  name="trash-alt" title="delete"/>
+          <FontAwesome className="image-icon"  name="expand" title="expand"/>
         </div>
       </div>
     );
