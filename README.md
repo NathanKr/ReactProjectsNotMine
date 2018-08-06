@@ -1,2 +1,2 @@
 # ReactProjectsNotMine
-React project not created by me
+React projects not created by me
